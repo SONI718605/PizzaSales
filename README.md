@@ -28,5 +28,5 @@ This project involves building a relational database and performing business int
 1. Clone the repository:
 
    ```bash
-   Github repository (https://github.com/SONI718605/pizzaSales)
+   https://github.com/SONI718605/pizzaSales
    
